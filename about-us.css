@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap');
+
+body{
+    background: #F6F6F8;
+}
+
+.about-title{
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 53px;
+    text-align: left;
+    margin-top: 100px;
+}
+
+.about{
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 25px;
+    text-align: left;
+    max-width: 730px;
+    color: #999999;
+    margin: 50px auto 0;
+}
+
+.code_image{
+	margin-top: 75px;
+	margin-right: 400px;
+	float: right;
+	width: 500px;
+	height: 400px;
+	left: 1015px;
+	top: 1703px;
+}
+
+.all_projects_form{
+    width: 200px;
+    height: 45px;
+    background: #4985FF;
+    outline: none;
+    box-shadow: 0 0 10px rgba(111, 111, 111, 0.25);
+    border-radius: 30px;
+    position: relative;
+    margin-top: 35px;
+}
+
+.link{
+	width: 202px;
+	height: 20px;
+	left: 405px;
+	top: 2030px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 20px;
+	text-decoration-line: underline;
+	color: #4985FF;
+}
+
+.projects-section{
+    display: inline-block;
+    flex-flow: column nowrap;
+	width: 1920px;
+	height: 797px;
+	left: 0px;
+	top: 1603px;
+}
+
+.about-us__text {
+	margin-left: 400px;
+	float: left;
+	width: 489px;
+	height: 295px;
+	left: 405px;
+	top: 1755px;
+}
+
+.line {
+	margin-top: 550px;
+	width: 1110px;
+	height: 0px;
+	left: 405px;
+	top: 2193px;
+	border: 1px solid #E0E0E0;
+}
+
+.about_us__numbers {
+	display: inline-block;
+	margin-right: 100px;
+	width: 104px;
+	height: 67px;
+	left: 1316px;
+	top: 2263px;
+}
+
+.number {
+	float: right;
+	margin-top: 0px;
+    margin-bottom: 0px;
+	width: 54px;
+	height: 35px;
+	left: 1366px;
+	top: 2263px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	line-height: 53px;
+	color: #000000;
+}
+
+.num_text {
+	margin-top: 10px;
+	width: 100px;
+	height: 15px;
+	left: 1316px;
+	top: 2315px;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 25px;
+	color: #999999;
+}
+
+.num_image {
+	margin-top: 12px;
+	width: 30px;
+	height: 30px;
+	left: 1316px;
+	top: 2270px;
+}
+
+.about_us__numbers_all {
+	margin-top: 50px;
+	margin-left: 500px;
+}
